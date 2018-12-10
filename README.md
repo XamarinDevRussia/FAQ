@@ -1,1 +1,1 @@
-# FAQ ![@xamarin_russia](https://t.me/xamarin_russia)
+# FAQ [@xamarin_russia](https://t.me/xamarin_russia)

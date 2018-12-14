@@ -1,6 +1,6 @@
 # FAQ [@xamarin_russia](https://t.me/xamarin_russia)
 
-## [Быстрый старт. Набор гайдов по установке и настройки среды разработки(+ оптимизация скорости сборки).](https://www.youtube.com/playlist?list=PLnAeZxzZ1_v0FZhEtBY13AqclYjdepUlq)
+## [Быстрый старт. Набор гайдов по установке и настройки среды разработки](https://www.youtube.com/playlist?list=PLnAeZxzZ1_v0FZhEtBY13AqclYjdepUlq)
 
 1. [Что такое Xamarin.Native/Xamarin.Forms чем отличаются и когда применять ? Для чего xamarin подходит, а для чего нет ?](/1.md)
 2. Какие знания нужны, для начала работы ?

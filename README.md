@@ -30,7 +30,7 @@
 26. Messaging Center - зачем нужно, почему и как использовать.
 27. Жизненный цикл приложения/страниц.
 28. Навигация в XF. Какие существуют практики и рекомендации к построению навигации в XF/XC.
-29. [Джентельменский набор библиотек бывалых замарищиков.](https://github.com/maxUo/awesome-xamarin-forms)
+29. [Джентельменский набор библиотек бывалых замарищиков.](https://github.com/jsuarezruiz/awesome-xamarin-forms)
 30. Работа с потоками. Зачем нужно запускать некоторые методы в UI потоке. Базовая работа с потоками в Xamarin.
 31. XF: ICommand, Binding's, Observer.
 32. GC.SuppressFinalize(Object), IDisposable, Destructors/Finalize.
